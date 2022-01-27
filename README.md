@@ -1,10 +1,10 @@
 # Introduction to Python
 
-[SESSION TITLE]
+DDI session - 27th January 2022
 
 Click the "launch binder" button below to launch the interactive notebook.
 
-[BINDER LINK]
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chdesvages/ddi-intro-python-27jan22/HEAD?labpath=presentation.ipynb)
 
 ## Learn more...
 
@@ -14,7 +14,7 @@ Install Python to run code on your computer:
 - If you're interested in doing data science or scientific computing, install [Anaconda](https://www.anaconda.com/products/individual). This will install Python, Jupyter (what we've used today), Spyder (an IDE), together with lots of useful libraries, like pandas, seaborn, and many others. Installing new packages after that is also straightforward with `conda`.
 - If you just want Python (e.g. for scripting), you can also [install it directly](https://www.python.org/downloads/). Installing new packages can then be done e.g. with `pip`.
 
-The current stable version of Python is 3.10 (released a few weeks ago). Version 3.8 will also be fully supported until 2024.
+The current stable version of Python is 3.10. Version 3.8 will also be fully supported until 2024.
 
 ### Learn more about Python
 
